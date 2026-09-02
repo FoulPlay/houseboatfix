@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.9.12120.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "houseboatfix", "houseboatfix\houseboatfix.csproj", "{D88CF449-BDE2-4104-9B63-439E740F6D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoPatcher", "..\..\MonoPatcher\MonoPatcher.csproj", "{91460F7B-9C23-4A43-AB52-95EAC8D52D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88CF449-BDE2-4104-9B63-439E740F6D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88CF449-BDE2-4104-9B63-439E740F6D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88CF449-BDE2-4104-9B63-439E740F6D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88CF449-BDE2-4104-9B63-439E740F6D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91460F7B-9C23-4A43-AB52-95EAC8D52D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91460F7B-9C23-4A43-AB52-95EAC8D52D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91460F7B-9C23-4A43-AB52-95EAC8D52D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7216DF82-9DEE-4FE9-AB00-19B1C8E788FB}
+	EndGlobalSection
+EndGlobal
