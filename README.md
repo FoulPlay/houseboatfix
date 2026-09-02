@@ -38,3 +38,7 @@ They also tested with Pets and Mermaids.
 destrospean (Destrospean) - Helping with code I can use for future projects.
 
 EA/The Sims Team - For their spaghetti code.
+
+Simler90 - For their fix.
+
+Lazy Duchess' Discord for testing and helping.
